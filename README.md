@@ -1,1 +1,1 @@
-Яндекс Практикум, фронтенд разработчик, спринт 1
+https://github.com/Izhaka/ono-tebe-nado.git
